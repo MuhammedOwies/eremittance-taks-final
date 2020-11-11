@@ -20,8 +20,7 @@ Mentioned above.
 * How are you handling design concepts such as loosely-coupled and high cohesive classes and objects.
   Achevied by making use of Spring boot framework.
 * How are you planning to deal with huge data transmitted over HTTP(s).
-  Achevied by using GZIP to compress Data(GZip compression is a very simple and effective way to save bandwidth and improve the speed of your website.
-  It reduces the response time of your website by compressing the resources and then sending it over to the clients. It saves bandwidth by at least 50%).
+  Achevied by using GZIP to compress Data (GZip compression is a very simple and effective way to save bandwidth and reduce the response time.)
 * What configurations you will place regarding expected challenges.
   
 * How you are you validating and verifying the request.
@@ -29,7 +28,7 @@ Mentioned above.
 * What security checks\validations you imagine to be placed.
   Fields validation (ex email,phone.etc) and user Authentication.
   
-Please answer the following within your implementation
+### Answers of the following questions within implementation
 * If it is required to route the object to another service/module, how would you do that?
   Could be Achevied by using microservices concepts.
 * What approach\tools you will be using?
